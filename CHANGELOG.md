@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 2.8.6
+
+- Switched `ever-block` dependency to `open-ever/ever-block` pinned at tag `1.11.23`
+- Switched `common` submodule to `open-ever/common`
+
 ## Version 2.8.4
 
 - Supported empty data
